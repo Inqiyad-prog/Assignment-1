@@ -1,0 +1,57 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+
+.common-btn {
+
+
+  color: white;
+  background-color: #1D4ED8;
+  padding: 12px;
+  width: 150px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.link a {
+
+
+  color: #575757;
+  margin: 10px;
+  text-decoration: none;
+
+
+}
+
+
+
+.text {
+
+  color: white;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: bold;
+  font-family: inter;
+  padding: 50px;
+
+}
+
+div p {
+  text-align: center;
+  color: white;
+}
+
+.img {
+  background-image: url("./images/banner.jpg");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 700px;
+
+}
