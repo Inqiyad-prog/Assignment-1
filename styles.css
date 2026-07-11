@@ -208,3 +208,28 @@ li {
   color: #555;
   line-height: 1.7;
 }
+
+
+
+
+.link-container {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1100px;
+  margin-top: -42px;
+
+}
+
+footer {
+
+  background-color: #0D1B2A;
+  border: 10px solid #0D1B2A;
+  margin-top: -15px;
+  color: #ddd
+}
+
+a {
+  text-decoration: none;
+  color: #ddd;
+
+}
